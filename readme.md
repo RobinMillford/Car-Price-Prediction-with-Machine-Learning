@@ -1,6 +1,6 @@
 # **Project Title:** Car Price Prediction with Machine Learning
 
-![Alt Text](https://github.com/RobinMillford/OIB-SIP/blob/main/Car%20Price%20Prediction%20with%20Machine%20Learning/installment-car-bank-percentage_jpg.png)
+![Alt Text](https://github.com/RobinMillford/OIBSIP_TASK3/blob/main/installment-car-bank-percentage_jpg.png)
 
 **Project Summary:**
 
